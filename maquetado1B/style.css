@@ -1,0 +1,126 @@
+html{
+    background-color: black;
+}
+body{
+   width: 1000px; 
+   height: 950px;
+   background-color: blue;
+   margin: auto;
+}
+.box1{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box4{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box5{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner{
+    width: 800px;
+    height: 300px;
+    background-color: white;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    background-color: purple;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login{
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    width: 200px;
+    height: 100px;
+    background-color: beige;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left{
+    width: 200px;
+    height: 500px;
+    background-color: hotpink;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    width: 500px;
+    height: 500px;
+    background-color: yellowgreen;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right{
+    width: 300px;
+    height: 500px;
+    background-color: blueviolet;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    width: 1000px;
+    height: 50px;
+    background-color: indianred;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
